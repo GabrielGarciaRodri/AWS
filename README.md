@@ -59,3 +59,15 @@ Configuración de npm y dependencias.
 #### README.md: 
 
 Documentación del proyecto.
+
+
+
+## Ejemplo de uso de las variables de entorno
+
+```bash
+AWS_REGION=us-east-1
+COGNITO_USER_POOL_ID=us-east-1_xxxxxxxx
+COGNITO_CLIENT_ID=xxxxxxxxxxxxxxxxxxxxxxxxxx
+S3_BUCKET_NAME=my-qr-code-bucket
+```
+
